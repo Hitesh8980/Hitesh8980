@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm excited to share my tech journey and projects 
 
 ## 📫 How to Reach Me
 
-- **Email**: (hitesh.sharma176@gmail.com)
-- **LinkedIn**: (https://www.linkedin.com/in/hitesh-sharma-94a79aa7)
+- **Email**: [Click](hitesh.sharma176@gmail.com)
+- **LinkedIn**: [Click](https://www.linkedin.com/in/hitesh-sharma-94a79aa7)
 
 
 ## ⚡ Fun Fact
